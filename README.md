@@ -24,7 +24,7 @@ The Task Management System is a backend application built with Spring Boot and M
 |----------------|------------------------|---------------------------|
 | GET            | /tasks                 | Get all tasks             |
 | GET            | /tasks/{id}            | Get task by ID            |
-| POST           | /tasks                 | Add a new task            |
+| POST           | /tasks/createTask      | Add a new task            |
 | PUT            | /tasks/{id}            | Update a task             |
 | DELETE         | /tasks/{id}            | Delete a task             |
 

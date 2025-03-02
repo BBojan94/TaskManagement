@@ -29,5 +29,5 @@ The Task Management System is a backend application built with Spring Boot and M
 | DELETE         | /tasks/{id}            | Delete a task             |
 
 ## Author
-Name: Bojan Bozovic\
+Bojan Bozovic\
 GitHub: [BBojan94](https://github.com/BBojan94/)
